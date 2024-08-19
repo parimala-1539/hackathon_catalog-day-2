@@ -1,0 +1,17 @@
+Features:
+Multiple-Choice Questions: Instead of asking for the exact capital, the program offers four choices, making the quiz more engaging.
+Timer: The total time taken to complete the quiz is recorded, adding a competitive element.
+Leaderboard: After the quiz, users can enter their names, and their scores are saved on a leaderboard, sorted by score and time taken.
+Replay Option: Users are given the option to play the quiz again, with their scores being compared each time.
+
+
+How to Run:
+Save this script as a .py file and run it in a Python environment.
+The program will guide you through the quiz, record your time, and display a leaderboard for added competition.
+This version of the quiz adds more complexity and a competitive edge, making it attractive and different from a simple Q&A format.
+
+
+
+
+
+
