@@ -1,0 +1,21 @@
+Description of the Enhanced Quiz Program
+The enhanced quiz program is designed to provide an engaging and competitive experience for users while testing their knowledge of Indian states and their capitals. It incorporates several advanced features to make the quiz more interactive, challenging, and fun.
+
+Key Features:
+Multiple-Choice Questions:
+
+Each question in the quiz presents four options for the capital of a randomly selected state.
+The user selects the correct answer from these options, making the quiz easier to play and more accessible, especially for younger participants.
+Timing Mechanism:
+
+The program tracks the time taken by the user to complete the quiz.
+This adds an element of urgency and competition, as users can challenge themselves or others to complete the quiz in less time.
+Leaderboard System:
+
+After completing the quiz, users can enter their names to save their scores.
+The leaderboard ranks participants based on their scores, and in the case of a tie, the time taken is used as a tiebreaker.
+This feature encourages replayability, as users may want to improve their ranking.
+Replay Option:
+
+The program provides an option to play the quiz again after each round.
+This allows users to immediately retry if they are not satisfied with their performance or if they simply want more practice.
